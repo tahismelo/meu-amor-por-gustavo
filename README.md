@@ -50,7 +50,7 @@
         <p>Gustavo, você é a luz da minha vida. Cada momento ao seu lado é especial e eu sou extremamente grata por ter você ao meu lado. Você me completa de uma maneira que eu nunca imaginei ser possível. Sua bondade, seu carinho e seu amor me fazem querer ser uma pessoa melhor a cada dia.</p>
         <p>Quando penso em nós, meu coração se enche de alegria e esperança. Você é o meu companheiro, meu melhor amigo e o amor da minha vida. Prometo te amar e te apoiar sempre, em todos os momentos, sejam eles bons ou desafiadores. Juntos, somos invencíveis.</p>
         <p>Obrigado por ser quem você é e por me amar. Eu te amo mais do que palavras podem expressar.</p>
-        <div class="footer">Com todo o meu amor, [Seu Nome]</div>
+        <div class="footer">Com todo o meu amor, thais </div>
     </div>
 </body>
 </html>
